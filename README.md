@@ -1,1 +1,1 @@
-# Dissertation
+Repository with the code for the dissertation "Signature-Driven Deep Learning for Value at Risk Prediction: a Unified Model for the IBEX 35" from the MSc in Mathematical Sciences at the University of Oxford.
